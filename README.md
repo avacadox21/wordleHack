@@ -23,4 +23,4 @@ Install Git and Node.js
 
 ## Damn who made this?
 
-me. they call me ava-god-ox21
+Avacadox21 and

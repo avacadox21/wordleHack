@@ -23,4 +23,4 @@ Install Git and Node.js
 
 ## Damn who made this?
 
-Avacadox21 and
+Avacadox21 and phoenixbeats01 
